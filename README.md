@@ -1,101 +1,117 @@
-<h1 align="center">Hi 👋, I'm Asif Ahemmed</h1>
-<h3 align="center">Frontend Web Developer | Building Scalable & User-Focused Web Apps</h3>
+<h1 align="center">Asif Ahemmed</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  <b>Frontend-Focused Full-Stack Engineer</b><br/>
+  Scalable Web Applications · Product Engineering · Clean Architecture
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter" />
+  <a href="https://YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View-black?style=flat&logo=vercel" />
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I am a passionate **Frontend Web Developer** focused on building **modern, responsive, and performant web applications**.
+> *Engineer mindset over frameworks.*
 
-I enjoy translating complex problems into **clean, intuitive user interfaces** and writing **maintainable, scalable code** following industry best practices.
+I am a **frontend-focused full-stack engineer** experienced in building **production-grade web systems** from UI to infrastructure.
 
-- 💻 Currently focused on **Frontend Engineering**
-- 🌱 Learning **advanced React, performance optimization & system design**
-- 🔍 Interested in **product-based companies & scalable products**
-- 📫 Reach me at: **YOUR_EMAIL@gmail.com**
+I enjoy working on problems that require **strong UX, performance optimization, clean APIs, and scalable architecture**.  
+My approach emphasizes **clarity, maintainability, and long-term impact**.
 
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify)
+Currently preparing for **FAANG / MAANG-style product engineering roles**.
 
 ---
 
-## 📌 Featured Projects
+## Technical Skills
 
-### 🔹 Project Name
-**Short description** of what the project does, problem it solves, and tech used.
+### Frontend
+<p>
+<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"/>
+</p>
 
-- 🔗 Live: https://project-live-link
-- 📂 Repo: https://github.com/USERNAME/repo-name
-- ⚙️ Tech: React, Tailwind, API, etc.
+### Backend & Databases
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-800000?style=flat"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
+</p>
 
----
-
-### 🔹 Project Name
-Another impactful project highlighting **real-world features**.
-
-- 🔗 Live: https://project-live-link
-- 📂 Repo: https://github.com/USERNAME/repo-name
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react" height="160" />
+### DevOps & Infrastructure
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-black?style=flat"/>
+<img src="https://img.shields.io/badge/AWS-Basic-232F3E?style=flat&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel"/>
 </p>
 
 ---
 
-## 🎯 What I'm Looking For
+## Selected Projects
 
-- ✅ Frontend / Web Developer roles  
-- ✅ Product-based companies  
-- ✅ Opportunities to work on **scalable, high-impact products**
+### Scalable Full-Stack Application
+> End-to-end ownership, production ready.
+
+**Highlights**
+- API design and data modeling
+- Authentication & authorization
+- Dockerized services with CI/CD
+- Production deployment and monitoring
+
+**Tech**: React · Node.js · Express · MongoDB · Docker  
+🔗 **Live**: https://project-link  
+📂 **Code**: https://github.com/USERNAME/repo
 
 ---
 
-## 🤝 Let's Connect
+### Frontend-Intensive Application
+> Performance-focused, accessible UI.
 
-If you're a recruiter, founder, or developer — feel free to reach out.  
-I'm always open to meaningful collaborations and exciting opportunities.
+**Highlights**
+- Component-driven architecture
+- Performance and bundle optimization
+- Responsive and accessible UI
 
-📧 **YOUR_EMAIL@gmail.com**  
-🌐 **YOUR_PORTFOLIO_URL**
+**Tech**: Next.js · React · Tailwind CSS  
+🔗 **Live**: https://project-link  
+📂 **Code**: https://github.com/USERNAME/repo
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" height="160"/>
+</p>
+
+---
+
+## Engineering Interests
+
+- Scalable frontend architecture  
+- Performance & web reliability  
+- System design fundamentals  
+- Clean code & long-term maintainability  
 
 ---
 
 <p align="center">
-  ⭐️ From <b>Asif Ahemmed</b>
+  <sub>Built with focus on clarity, scale, and impact.</sub>
 </p>
