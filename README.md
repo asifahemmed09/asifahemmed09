@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/asif-ahemmed-2a8760393/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_URL">
+  <a href="https://asif-ahemmed.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:asifahemmed.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
   </a>
 </p>
@@ -27,8 +27,6 @@ I am a **frontend-focused full-stack engineer** experienced in building **produc
 
 I enjoy working on problems that require **strong UX, performance optimization, clean APIs, and scalable architecture**.  
 My approach emphasizes **clarity, maintainability, and long-term impact**.
-
-Currently preparing for **FAANG / MAANG-style product engineering roles**.
 
 ---
 
@@ -63,42 +61,12 @@ Currently preparing for **FAANG / MAANG-style product engineering roles**.
 
 ---
 
-## Selected Projects
-
-### Scalable Full-Stack Application
-> End-to-end ownership, production ready.
-
-**Highlights**
-- API design and data modeling
-- Authentication & authorization
-- Dockerized services with CI/CD
-- Production deployment and monitoring
-
-**Tech**: React · Node.js · Express · MongoDB · Docker  
-🔗 **Live**: https://project-link  
-📂 **Code**: https://github.com/USERNAME/repo
-
----
-
-### Frontend-Intensive Application
-> Performance-focused, accessible UI.
-
-**Highlights**
-- Component-driven architecture
-- Performance and bundle optimization
-- Responsive and accessible UI
-
-**Tech**: Next.js · React · Tailwind CSS  
-🔗 **Live**: https://project-link  
-📂 **Code**: https://github.com/USERNAME/repo
-
----
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asifahemmed09&show_icons=true&hide_title=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifahemmed09" height="160"/>
 </p>
 
 ---
