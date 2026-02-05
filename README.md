@@ -62,15 +62,6 @@ My approach emphasizes **clarity, maintainability, and long-term impact**.
 ---
 
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asifahemmed09&show_icons=true&hide_title=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifahemmed09" height="160"/>
-</p>
-
----
-
 ## Engineering Interests
 
 - Scalable frontend architecture  
