@@ -7,6 +7,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C8F214&center=true&vCenter=true&width=760&height=50&lines=Building+scalable+web+applications;Multi-tenant+SaaS+%26+clean+backend+architecture;LLMs%2C+RAG+%26+Multi-Agent+Systems;TypeScript+%7C+Next.js+%7C+NestJS+%7C+PostgreSQL" alt="Typing animation" />
 </a>
 
+<br/>
+
+<a href="https://www.linkedin.com/in/asif-ahemmed-2a8760393/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://asif-ahemmed.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:asifahemmed.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<br/>
+
 ---
 
 ## 👨‍💻 About Me
@@ -19,57 +35,56 @@ I'm a **Full-Stack Developer** passionate about building modern, scalable web ap
 
 ## 🛠️ Skills & Expertise
 
-### 💻 Full-Stack Development
+<div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-6D47EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Next.js-6D47EB?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-6D47EB?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-6D47EB?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/Nest.js-6D47EB?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js" />
-<img src="https://img.shields.io/badge/OOP-6D47EB?style=for-the-badge" alt="OOP" />
-<img src="https://img.shields.io/badge/Auth-6D47EB?style=for-the-badge" alt="Auth" />
-<img src="https://img.shields.io/badge/RBAC-6D47EB?style=for-the-badge" alt="RBAC" />
+### Languages & Frontend
 
-### 🗄️ Database Management
+<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,tailwind,nextjs" alt="Languages and frontend skills" />
 
-<img src="https://img.shields.io/badge/SQL-6D47EB?style=for-the-badge" alt="SQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-6D47EB?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Drizzle_ORM-6D47EB?style=for-the-badge" alt="Drizzle ORM" />
-<img src="https://img.shields.io/badge/Redis-6D47EB?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Vector_Database-6D47EB?style=for-the-badge" alt="Vector Database" />
+### Backend & Databases
 
-### 🏗️ Software Engineering Fundamentals
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,drizzle" alt="Backend and database skills" />
 
-<img src="https://img.shields.io/badge/Multi--tenant_Architecture-6D47EB?style=for-the-badge" alt="Multi-tenant Architecture" />
-<img src="https://img.shields.io/badge/Database_Design_Techniques-6D47EB?style=for-the-badge" alt="Database Design Techniques" />
-<img src="https://img.shields.io/badge/SaaS_Product_Development-6D47EB?style=for-the-badge" alt="SaaS Product Development" />
-<img src="https://img.shields.io/badge/Clean_Code-6D47EB?style=for-the-badge" alt="Clean Code" />
-<img src="https://img.shields.io/badge/Industry_Best_Practices-6D47EB?style=for-the-badge" alt="Industry Best Practices" />
-<img src="https://img.shields.io/badge/System_Design-6D47EB?style=for-the-badge" alt="System Design" />
-<img src="https://img.shields.io/badge/Testing-6D47EB?style=for-the-badge" alt="Testing" />
-<img src="https://img.shields.io/badge/Scalability-6D47EB?style=for-the-badge" alt="Scalability" />
+### AI Engineering
 
-### 🤖 AI Engineering
+<img src="https://skillicons.dev/icons?i=langchain" alt="AI engineering skills" />
 
-<img src="https://img.shields.io/badge/LLM-6D47EB?style=for-the-badge" alt="LLM" />
-<img src="https://img.shields.io/badge/RAG-6D47EB?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/LangChain-6D47EB?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-6D47EB?style=for-the-badge" alt="Multi-Agent Systems" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-6D47EB?style=for-the-badge" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/Tool_Calling-6D47EB?style=for-the-badge" alt="Tool Calling" />
-<img src="https://img.shields.io/badge/AI_Guardrails-6D47EB?style=for-the-badge" alt="AI Guardrails" />
-<img src="https://img.shields.io/badge/Embeddings-6D47EB?style=for-the-badge" alt="Embeddings" />
+### Production & Deployment
 
-### 🚀 Production & Deployment
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,aws" alt="Production and deployment skills" />
 
-<img src="https://img.shields.io/badge/Docker-6D47EB?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Multi--Container_Application-6D47EB?style=for-the-badge" alt="Multi-Container Application" />
-<img src="https://img.shields.io/badge/NGINX-6D47EB?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
-<img src="https://img.shields.io/badge/AWS-6D47EB?style=for-the-badge" alt="AWS" />
-<img src="https://img.shields.io/badge/GitHub_Actions-6D47EB?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/CI%2FCD-6D47EB?style=for-the-badge" alt="CI/CD" />
-<img src="https://img.shields.io/badge/VPS-6D47EB?style=for-the-badge" alt="VPS" />
+<br/>
 
+<sub><b>Also experienced in:</b> OOP · Auth & RBAC · SQL · Vector Databases · Multi-tenant Architecture · Database Design · SaaS Development · System Design · Clean Code · Testing · Scalability · LLMs · RAG · Multi-Agent Systems · Prompt Engineering · Tool Calling · AI Guardrails · Embeddings · CI/CD · VPS Deployment</sub>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics & Analysis
+
+<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username in every link in this section -->
+
+<div align="center">
+
+### Overview
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C8F214&icon_color=8B6CF5&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C8F214" alt="Most used languages" />
+
+### Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8B6CF5&fire=C8F214&currStreakLabel=C8F214" alt="GitHub streak" />
+
+### Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C8F214&line=6D47EB&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
+
+### Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+
+</div>
 
 ---
 
