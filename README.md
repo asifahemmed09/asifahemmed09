@@ -4,13 +4,13 @@
 <h3 align="center">Full-Stack Developer | AI Engineering Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/asif-ahemmed-2a8760393/" target="_blank">
+  <a href="https://www.linkedin.com/in/asif-ahemmed-2a8760393/" >
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://asif-ahemmed.vercel.app/"  target="_blank">
+  <a href="https://asif-ahemmed.vercel.app/" >
     <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel"/>
   </a>
-  <a href="mailto:asifahemmed.dev@gmail.com" target="_blank">
+  <a href="mailto:asifahemmed.dev@gmail.com" >
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
   </a>
 </p>
