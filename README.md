@@ -7,22 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C8F214&center=true&vCenter=true&width=760&height=50&lines=Building+scalable+web+applications;Multi-tenant+SaaS+%26+clean+backend+architecture;LLMs%2C+RAG+%26+Multi-Agent+Systems;TypeScript+%7C+Next.js+%7C+NestJS+%7C+PostgreSQL" alt="Typing animation" />
 </a>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/asif-ahemmed-2a8760393/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://asif-ahemmed.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:asifahemmed.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
-<br/>
-
 ---
 
 ## 👨‍💻 About Me
