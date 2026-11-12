@@ -1,9 +1,7 @@
-<h1 align="center">Asif Ahemmed</h1>
 
-<p align="center">
-  <b>Frontend-Focused Full-Stack Engineer</b><br/>
-  Scalable Web Applications · Product Engineering · Clean Architecture
-</p>
+<h1 align="center">👋 Hi, I'm Asif Ahemmed</h1>
+
+<h3 align="center">Full-Stack Developer | AI Engineering Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asif-ahemmed-2a8760393/">
@@ -18,8 +16,7 @@
 </p>
 
 
-<h1 align="center">👋 Hi, I'm Asif Ahemmed</h1>
-<h3 align="center">Full-Stack Developer | AI Engineering Enthusiast</h3>
+
 
 ---
 
