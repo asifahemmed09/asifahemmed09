@@ -17,18 +17,23 @@
   </a>
 </p>
 
----
 
-## About Me
-
-> *Engineer mindset over frameworks.*
-
-I am a **frontend-focused full-stack engineer** experienced in building **production-grade web systems** from UI to infrastructure.
-
-I enjoy working on problems that require **strong UX, performance optimization, clean APIs, and scalable architecture**.  
-My approach emphasizes **clarity, maintainability, and long-term impact**.
+<h1 align="center">👋 Hi, I'm Asif Ahemmed</h1>
+<h3 align="center">Full-Stack Developer | AI Engineering Enthusiast</h3>
 
 ---
+
+- 👨‍💻 I'm a **Full-Stack Developer** passionate about building modern, scalable web applications.
+- 💻 I specialize in **TypeScript, Next.js, Node.js, Express.js, and NestJS**.
+- 🗄️ Experienced in **PostgreSQL, SQL, Redis, Drizzle ORM, and Vector Databases**.
+- 🏗️ Interested in **System Design, Scalable SaaS Architecture, Multi-Tenant Applications, and Clean Code**.
+- 🤖 Exploring **AI Engineering, LLMs, RAG, LangChain, and Multi-Agent Systems**.
+- 🚀 Experienced with **Docker, GitHub Actions, CI/CD, NGINX, AWS, and VPS Deployment**.
+- 💬 Ask me about **Full-Stack Development, Backend Architecture, Database Design, and AI Integration**.
+- 🎯 Focused on building **scalable, secure, and intelligent software solutions**.
+
+---
+
 
 ## Technical Skills
 
