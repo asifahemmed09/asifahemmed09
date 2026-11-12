@@ -70,21 +70,6 @@ I'm a **Full-Stack Developer** passionate about building modern, scalable web ap
 <img src="https://img.shields.io/badge/CI%2FCD-6D47EB?style=for-the-badge" alt="CI/CD" />
 <img src="https://img.shields.io/badge/VPS-6D47EB?style=for-the-badge" alt="VPS" />
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username in all three links below -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-
-</div>
 
 ---
 
