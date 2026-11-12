@@ -1,78 +1,123 @@
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Asif Ahemmed</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=200&section=header&text=Asif%20Ahemmed&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineering%20Enthusiast&descAlignY=60&descSize=20" alt="Header banner" />
 
-<h3 align="center">Full-Stack Developer | AI Engineering Enthusiast</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=Building+scalable+web+applications;Designing+clean+backend+architectures;Exploring+LLMs%2C+RAG+%26+Multi-Agent+Systems;TypeScript+%7C+Next.js+%7C+NestJS+%7C+PostgreSQL" alt="Typing animation" />
+</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/asif-ahemmed-2a8760393/" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://asif-ahemmed.vercel.app/" >
-    <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel"/>
-  </a>
-  <a href="mailto:asifahemmed.dev@gmail.com" >
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
-  </a>
-</p>
+<br/>
 
+<a href="https://www.linkedin.com/in/asif-ahemmed-2a8760393/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://asif-ahemmed.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:asifahemmed.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
+</div>
 
-
----
-
-- 👨‍💻 I'm a **Full-Stack Developer** passionate about building modern, scalable web applications.
-- 💻 I specialize in **TypeScript, Next.js, Node.js, Express.js, and NestJS**.
-- 🗄️ Experienced in **PostgreSQL, SQL, Redis, Drizzle ORM, and Vector Databases**.
-- 🏗️ Interested in **System Design, Scalable SaaS Architecture, Multi-Tenant Applications, and Clean Code**.
-- 🤖 Exploring **AI Engineering, LLMs, RAG, LangChain, and Multi-Agent Systems**.
-- 🚀 Experienced with **Docker, GitHub Actions, CI/CD, NGINX, AWS, and VPS Deployment**.
-- 💬 Ask me about **Full-Stack Development, Backend Architecture, Database Design, and AI Integration**.
-- 🎯 Focused on building **scalable, secure, and intelligent software solutions**.
+<br/>
 
 ---
 
+## 👨‍💻 About Me
 
-## Technical Skills
+I'm a **Full-Stack Developer** passionate about building modern, scalable web applications. I care about clean code, solid architecture, and software that stays maintainable as it grows. Lately I've been exploring how **AI engineering** fits into real products.
+
+| | |
+|---|---|
+| 💻 **Core Stack** | TypeScript, Next.js, Node.js, Express.js, NestJS |
+| 🗄️ **Data Layer** | PostgreSQL, SQL, Redis, Drizzle ORM, Vector Databases |
+| 🏗️ **Architecture** | System Design, Scalable SaaS, Multi-Tenant Applications |
+| 🤖 **AI Engineering** | LLMs, RAG, LangChain, Multi-Agent Systems |
+| 🚀 **DevOps** | Docker, GitHub Actions, CI/CD, NGINX, AWS, VPS Deployment |
+
+> 🎯 Focused on building **scalable, secure, and intelligent software solutions**.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
+
 <p>
-<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" alt="Frontend skills" />
 </p>
 
 ### Backend & Databases
+
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mongoose-800000?style=flat"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=flat"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,mongodb" alt="Backend skills" />
+  <br/>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs" />
+</p>
+
+### AI Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector_DBs-0A66C2?style=for-the-badge" alt="Vector Databases" />
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-F97316?style=for-the-badge" alt="Multi-Agent Systems" />
 </p>
 
 ### DevOps & Infrastructure
+
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI/CD-black?style=flat"/>
-<img src="https://img.shields.io/badge/AWS-Basic-232F3E?style=flat&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel"/>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,aws,vercel,linux,git" alt="DevOps skills" />
 </p>
 
 ---
 
+## 🧭 Engineering Interests
 
-## Engineering Interests
-
-- Scalable frontend architecture  
-- Performance & web reliability  
-- System design fundamentals  
-- Clean code & long-term maintainability  
+- 🏛️ **System design fundamentals** and scalable SaaS architecture
+- ⚡ **Performance & web reliability**
+- 🧱 **Scalable frontend architecture**
+- 🧼 **Clean code & long-term maintainability**
+- 🤝 **Multi-tenant application design**
 
 ---
 
-<p align="center">
-  <sub>Built with focus on clarity, scale, and impact.</sub>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username in all three links below -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 💬 Let's Connect
+
+Ask me about **Full-Stack Development, Backend Architecture, Database Design, and AI Integration**. I'm always open to interesting projects and conversations.
+
+<div align="center">
+
+| 📧 Email | 💼 LinkedIn | 🌐 Portfolio |
+|:---:|:---:|:---:|
+| [asifahemmed.dev@gmail.com](mailto:asifahemmed.dev@gmail.com) | [asif-ahemmed](https://www.linkedin.com/in/asif-ahemmed-2a8760393/) | [asif-ahemmed.vercel.app](https://asif-ahemmed.vercel.app/) |
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" alt="Footer banner" />
+
+<sub>Built with focus on clarity, scale, and impact.</sub>
+
+</div>
