@@ -184,50 +184,77 @@
 
 ---
 
-## 📊 GitHub Statistics & Analysis
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username in every link in this section -->
+<p align="center">
+  <sub>A live snapshot of my coding activity and consistency</sub>
+</p>
+
+<!-- Replace YOUR_GITHUB_USERNAME everywhere in this section (7 places) -->
 
 <div align="center">
 
-### Overview
+<table>
+  <tr>
+    <td align="center">
+      <img height="190" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=C8F214&icon_color=8B6CF5&text_color=E6EDF3&border_color=3B1FA8&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub stats" />
+    </td>
+    <td align="center">
+      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=C8F214&text_color=E6EDF3&border_color=3B1FA8&border_radius=12" alt="Most used languages" />
+    </td>
+  </tr>
+</table>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C8F214&icon_color=8B6CF5&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C8F214" alt="Most used languages" />
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0D1117&ring=8B6CF5&fire=C8F214&currStreakLabel=C8F214&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B6CF5&dates=9CA3AF&border=3B1FA8&border_radius=12" alt="GitHub streak" />
 
-### Contribution Streak
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8B6CF5&fire=C8F214&currStreakLabel=C8F214" alt="GitHub streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C8F214&line=6D47EB&point=FFFFFF&area=true&area_color=6D47EB&hide_border=true&radius=12&title=Contribution%20Activity" alt="Contribution activity graph" />
 
-### Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C8F214&line=6D47EB&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
-
-### Trophies
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6D47EB&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-## 💬 Let's Connect
+<h2 align="center">💬 Let's Connect</h2>
 
-Ask me about **Full-Stack Development, Backend Architecture, Database Design, and AI Integration**. I'm always open to interesting projects and conversations.
+<p align="center">
+  Open to conversations about <b>Full-Stack Development</b>, <b>Backend Architecture</b>,
+  <b>Database Design</b>, and <b>AI Integration</b>.<br/>
+  Have a project or an opportunity in mind? Let's talk.
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="mailto:asifahemmed.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-asifahemmed.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-| 📧 Email | 💼 LinkedIn | 🌐 Portfolio |
-|:---:|:---:|:---:|
-| [asifahemmed.dev@gmail.com](mailto:asifahemmed.dev@gmail.com) | [asif-ahemmed](https://www.linkedin.com/in/asif-ahemmed-2a8760393/) | [asif-ahemmed.vercel.app](https://asif-ahemmed.vercel.app/) |
+<p align="center">
+  <a href="https://www.linkedin.com/in/asif-ahemmed-2a8760393/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://asif-ahemmed.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-6D47EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-</div>
+<br/>
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B6CF5,50:6D47EB,100:3B1FA8&height=120&section=footer" alt="Footer banner" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=8B6CF5&center=true&vCenter=true&width=600&height=30&lines=Build+it+clean.;Build+it+to+scale.;Build+it+to+last." alt="Footer tagline" />
+</a>
 
-<sub>Built with focus on clarity, scale, and impact.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B6CF5,50:6D47EB,100:3B1FA8&height=120&section=footer" alt="Footer banner" />
 
 </div>
