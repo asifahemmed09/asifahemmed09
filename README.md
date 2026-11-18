@@ -80,11 +80,9 @@
 
 ---
 
-<h2 align="center">🛠️ Skills &amp; Expertise</h2>
+---
 
-<p align="center">
-  <sub>Technologies I use to design, build, and ship production-grade software</sub>
-</p>
+<h2 align="center">🛠️ Skills &amp; Expertise</h2>
 
 <div align="center">
 
@@ -96,7 +94,7 @@
 
 <img src="https://img.shields.io/badge/FRONTEND-6D47EB?style=for-the-badge" alt="Frontend" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=8" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind&perline=8" alt="Frontend" />
 
 <br/><br/>
 
@@ -108,25 +106,20 @@
 
 <img src="https://img.shields.io/badge/DATABASES%20%26%20ORM-6D47EB?style=for-the-badge" alt="Databases and ORM" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,prisma,drizzle,redis&perline=8" alt="Databases and ORM" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/AI%20ENGINEERING-6D47EB?style=for-the-badge" alt="AI Engineering" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=py,langchain&perline=8" alt="AI Engineering" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis&perline=8" alt="Databases and ORM" />
+<img src="https://cdn.simpleicons.org/drizzle/C5F74F" height="48" alt="Drizzle ORM" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/DEVOPS%20%26%20DEPLOYMENT-6D47EB?style=for-the-badge" alt="DevOps and Deployment" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,aws,linux&perline=8" alt="DevOps and Deployment" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,aws,linux,vercel,netlify&perline=8" alt="DevOps and Deployment" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/TOOLS-6D47EB?style=for-the-badge" alt="Tools" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=8" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion,windows&perline=8" alt="Tools" />
 
 <br/><br/>
 
