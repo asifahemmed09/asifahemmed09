@@ -54,8 +54,8 @@
 
 ### 🚀 What I Do
 - 🏗️ Design **multi-tenant SaaS** platforms with clean, modular backends
-- ⚙️ Build **REST APIs** with NestJS, Express.js, and Prisma
-- 🌐 Create fast, modern frontends with **Next.js** and TypeScript
+- ⚙️ Build **REST APIs** with Express.js,NestJS,PostgreSQL and Prisma
+- 🌐 Create fast, modern frontends with **Next.js**, React.js and TypeScript
 - 🤖 Apply **AI engineering** (LLMs, RAG, multi-agent systems) to real products
 
     </td>
@@ -73,15 +73,6 @@
 
 <br/>
 
-<div align="center">
-
-| 🎓 Education | 🎯 Focus | 💼 Status |
-|:---:|:---:|:---:|
-| B.Sc. in CSE<br/>Southeast University | Backend Engineering<br/>& AI Systems | Open to opportunities |
-
-</div>
-
-<br/>
 
 <p align="center">
   <i>"Build it clean, build it to scale, build it to last."</i>
