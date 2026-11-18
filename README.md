@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B1FA8,50:6D47EB,100:8B6CF5&height=200&section=header&text=Asif%20Ahemmed&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20AI%20Engineering%20Enthusiast&descAlignY=60&descSize=20" alt="Header banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C8F214&center=true&vCenter=true&width=760&height=50&lines=Building+scalable+web+applications;Multi-tenant+SaaS+%26+clean+backend+architecture;LLMs%2C+RAG+%26+Multi-Agent+Systems;TypeScript+%7C+Next.js+%7C+NestJS+%7C+PostgreSQL" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C8F214&center=true&vCenter=true&width=760&height=50&lines=Building+scalable+web+applications;Multi-tenant+SaaS+%26+clean+backend+architecture;LLMs%2C+RAG+%26+Multi-Agent+Systems;TypeScript+%7C+JavaScript+%7C+Python+%7C+Node.js;Next.js+%7C+NestJS+%7C+PostgreSQL" alt="Typing animation" />
 </a>
 
 <br/>
