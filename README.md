@@ -54,7 +54,7 @@
 
 ### 🚀 What I Do
 - 🏗️ Design **multi-tenant SaaS** platforms with clean, modular backends
-- ⚙️ Build **REST APIs** with Express.js,NestJS,PostgreSQL and Prisma
+- ⚙️ Build **REST APIs** with Express.js, NestJS, PostgreSQL and Prisma
 - 🌐 Create fast, modern frontends with **Next.js**, React.js and TypeScript
 - 🤖 Apply **AI engineering** (LLMs, RAG, multi-agent systems) to real products
 
