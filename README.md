@@ -43,11 +43,51 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-I'm a **Full-Stack Developer** passionate about building modern, scalable web applications. I care about clean code, solid architecture, and software that stays maintainable as it grows, and I'm applying **AI engineering** to build intelligent, production-ready products.
+<p align="center">
+  <b>Full-Stack Developer</b> with a backend-first mindset, building <b>scalable, secure, and intelligent</b> software.<br/>
+  I care about clean architecture, maintainable code, and shipping products that hold up in production.
+</p>
 
-> 🎯 Focused on building **scalable, secure, and intelligent software solutions**.
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🚀 What I Do
+- 🏗️ Design **multi-tenant SaaS** platforms with clean, modular backends
+- ⚙️ Build **REST APIs** with NestJS, Express.js, and Prisma
+- 🌐 Create fast, modern frontends with **Next.js** and TypeScript
+- 🤖 Apply **AI engineering** (LLMs, RAG, multi-agent systems) to real products
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🧭 How I Work
+- ✅ Type-safe, testable, readable code
+- 🧱 Architecture that scales with the product
+- 🔐 Security and data integrity from day one
+- 📦 Containerized, reproducible environments with **Docker**
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+| 🎓 Education | 🎯 Focus | 💼 Status |
+|:---:|:---:|:---:|
+| B.Sc. in CSE<br/>Southeast University | Backend Engineering<br/>& AI Systems | Open to opportunities |
+
+</div>
+
+<br/>
+
+<p align="center">
+  <i>"Build it clean, build it to scale, build it to last."</i>
+</p>
 
 ---
 
