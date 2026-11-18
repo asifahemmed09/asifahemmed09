@@ -206,7 +206,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:asifahemmed.dev@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=asifahemmed.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-asifahemmed.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -221,7 +221,6 @@
 </p>
 
 <br/>
-
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
