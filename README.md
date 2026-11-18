@@ -172,34 +172,34 @@
   <sub>A live snapshot of my coding activity and consistency</sub>
 </p>
 
-<!-- Replace YOUR_GITHUB_USERNAME everywhere in this section (7 places) -->
+
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center">
-      <img height="190" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=C8F214&icon_color=8B6CF5&text_color=E6EDF3&border_color=3B1FA8&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub stats" />
+      <img height="190" src="https://github-readme-stats.vercel.app/api?username=asifahemmed09&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=C8F214&icon_color=8B6CF5&text_color=E6EDF3&border_color=3B1FA8&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub stats" />
     </td>
     <td align="center">
-      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=C8F214&text_color=E6EDF3&border_color=3B1FA8&border_radius=12" alt="Most used languages" />
+      <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifahemmed09&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=C8F214&text_color=E6EDF3&border_color=3B1FA8&border_radius=12" alt="Most used languages" />
     </td>
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0D1117&ring=8B6CF5&fire=C8F214&currStreakLabel=C8F214&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B6CF5&dates=9CA3AF&border=3B1FA8&border_radius=12" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=asifahemmed09&theme=tokyonight&background=0D1117&ring=8B6CF5&fire=C8F214&currStreakLabel=C8F214&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B6CF5&dates=9CA3AF&border=3B1FA8&border_radius=12" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C8F214&line=6D47EB&point=FFFFFF&area=true&area_color=6D47EB&hide_border=true&radius=12&title=Contribution%20Activity" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifahemmed09&bg_color=0D1117&color=C8F214&line=6D47EB&point=FFFFFF&area=true&area_color=6D47EB&hide_border=true&radius=12&title=Contribution%20Activity" alt="Contribution activity graph" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=asifahemmed09&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6D47EB&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=asifahemmed09&label=Profile%20Views&color=6D47EB&style=for-the-badge" alt="Profile views" />
 
 </div>
 
