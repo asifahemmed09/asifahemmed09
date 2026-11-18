@@ -91,29 +91,94 @@
 
 ---
 
-## 🛠️ Skills & Expertise
+<h2 align="center">🛠️ Skills &amp; Expertise</h2>
+
+<p align="center">
+  <sub>Technologies I use to design, build, and ship production-grade software</sub>
+</p>
 
 <div align="center">
 
-### Languages & Frontend
+<img src="https://img.shields.io/badge/LANGUAGES-6D47EB?style=for-the-badge" alt="Languages" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,html,css&perline=8" alt="Languages" />
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,tailwind,nextjs" alt="Languages and frontend skills" />
+<br/><br/>
 
-### Backend & Databases
+<img src="https://img.shields.io/badge/FRONTEND-6D47EB?style=for-the-badge" alt="Frontend" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=8" alt="Frontend" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,drizzle" alt="Backend and database skills" />
+<br/><br/>
 
-### AI Engineering
+<img src="https://img.shields.io/badge/BACKEND%20%26%20RUNTIME-6D47EB?style=for-the-badge" alt="Backend and Runtime" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=8" alt="Backend and Runtime" />
 
-<img src="https://skillicons.dev/icons?i=langchain" alt="AI engineering skills" />
+<br/><br/>
 
-### Production & Deployment
+<img src="https://img.shields.io/badge/DATABASES%20%26%20ORM-6D47EB?style=for-the-badge" alt="Databases and ORM" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,prisma,drizzle,redis&perline=8" alt="Databases and ORM" />
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,aws" alt="Production and deployment skills" />
+<br/><br/>
 
-<br/>
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-6D47EB?style=for-the-badge" alt="AI Engineering" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,langchain&perline=8" alt="AI Engineering" />
 
-<sub><b>Also experienced in:</b> OOP · Auth & RBAC · SQL · Vector Databases · Multi-tenant Architecture · Database Design · SaaS Development · System Design · Clean Code · Testing · Scalability · LLMs · RAG · Multi-Agent Systems · Prompt Engineering · Tool Calling · AI Guardrails · Embeddings · CI/CD · VPS Deployment</sub>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/DEVOPS%20%26%20DEPLOYMENT-6D47EB?style=for-the-badge" alt="DevOps and Deployment" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,aws,linux&perline=8" alt="DevOps and Deployment" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TOOLS-6D47EB?style=for-the-badge" alt="Tools" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=8" alt="Tools" />
+
+<br/><br/>
+
+<h3>💡 Core Competencies</h3>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+**🏗️ Backend & Architecture**
+- OOP & Clean Code
+- System Design
+- Database Design & SQL
+- Auth & RBAC
+- Multi-tenant Architecture
+- SaaS Development
+- Scalability & Testing
+
+    </td>
+    <td valign="top" width="33%">
+
+**🤖 AI Engineering**
+- LLMs & Prompt Engineering
+- RAG & Embeddings
+- Vector Databases
+- Multi-Agent Systems
+- Tool Calling
+- AI Guardrails
+
+    </td>
+    <td valign="top" width="33%">
+
+**🚀 Delivery & Operations**
+- CI/CD Pipelines
+- VPS Deployment
+- Containerized Environments
+- Production Readiness
+
+    </td>
+  </tr>
+</table>
 
 </div>
 
