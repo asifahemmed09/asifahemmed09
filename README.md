@@ -193,14 +193,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=asifahemmed09&bg_color=0D1117&color=C8F214&line=6D47EB&point=FFFFFF&area=true&area_color=6D47EB&hide_border=true&radius=12&title=Contribution%20Activity" alt="Contribution activity graph" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=asifahemmed09&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=asifahemmed09&label=Profile%20Views&color=6D47EB&style=for-the-badge" alt="Profile views" />
-
 </div>
 
 ---
